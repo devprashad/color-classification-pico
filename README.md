@@ -41,7 +41,7 @@
         <li>Connect GPIO pins to OV7670 camera module for communication.</li>
         <li>Connect GPIO pins to 16x2 LCD with I2C interface.</li>
         <li>pico.jpg is the image of the connected pico with camera and lcd</li>
-        
+        !
         <img src="https://github.com/Barathj121/Language_Translation/assets/110909380/e14aaeba-eba9-4597-ae82-b7a47bcd416c"/>
     </ul>
     <h2>OV7670 Camera Module Connections</h2>
