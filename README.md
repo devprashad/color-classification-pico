@@ -53,6 +53,8 @@
     <ul>
         <li>Connect 16x2 LCD with I2C interface to Raspberry Pi Pico GPIO pins.</li>
         <li>Check the connectionoflcd.jpg image  for the connection of pico and 16*2 lcd with i2c</li>
+        ![Uploading PXL_20231209_183419980 (1).jpg…]()
+
         <li>Below image is the connection of LCD with Pico</li>
     </ul>
     <h2>Conclusion</h2>
