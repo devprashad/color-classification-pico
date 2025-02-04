@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html lang="en">
 <body>
-    <h1>Color Classification Project</h1>
+    <h1>Color Classification</h1>
     <h2>Objective</h2>
     <p>The goal of this project is to create a color classification system using a Raspberry Pi Pico, a ST7735 based 128x160 pixel TFT SPI display interface, and an OV7670 camera module. The system captures an image, analyzes its pixels, identifies the dominant color, and displays the result on the LCD.</p>
     <h2>Components Used</h2>
